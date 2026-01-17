@@ -1,6 +1,8 @@
 # Web-Controlled RC Tank
 A remotely controlled tank built using Arduino and web technologies, designed to demonstrate real-time motor control and embedded system communication. Custom components are designed and fabricated using 3D printing.
-[Download 3D Model](https://github.com/ashishsinghchauhantech/web-rc-tank/blob/main/wheel.stl)
+
+## Pictures 
+[Tank Parts!](https://github.com/ashishsinghchauhantech/web-rc-tank/blob/main/wheel.stl)
 [images](![base-diagram-2](https://github.com/user-attachments/assets/6f40585d-ae6e-4f1e-9cda-54ad3173034c)
 
 ![left-profile-1](https://github.com/user-attachments/assets/0fe372fa-30d7-4c98-b02b-aa355781436e)
